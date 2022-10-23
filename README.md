@@ -1,7 +1,7 @@
 # Electron app - Fun Cat Facts!
 Download the app, and run 
 
-<Optional>
+
 If you don't have installed Electron, run 
   
 ```
