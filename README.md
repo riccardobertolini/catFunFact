@@ -2,7 +2,8 @@
 Download the app, and run 
 
 <Optional>
-If you don't have installed Electron, 
+If you don't have installed Electron, run 
+  
 ```
 npm i electron-forge -g
 ```
