@@ -5,7 +5,7 @@ Download the app, and run:
 1) If you don't have installed Electron, run 
   
 ```
-npm i electron-forge -g
+npm i electron -g
 ```
 
 2) then 
