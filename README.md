@@ -1,14 +1,14 @@
 # Electron app - Fun Cat Facts!
-Download the app, and run 
+Download the app, and run:
 
 
-If you don't have installed Electron, run 
+1) If you don't have installed Electron, run 
   
 ```
 npm i electron-forge -g
 ```
 
-and then 
+2) then 
 
 ```
 npm run make
