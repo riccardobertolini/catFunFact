@@ -15,3 +15,4 @@ npm run make
 ```
 
 to make it an executable on your OS. Mac, Windows and Linux supported.
+Run the executable accordingly.
